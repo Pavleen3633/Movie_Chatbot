@@ -5,10 +5,14 @@ Submission to: Dr. Jennifer Merritt
 
 ## 
 Team Members:
-. Moyinoluwa Akin-Adamu
-. Niraj Gautam
-. Jinal Mehta
-. Pavleen Kaur
+##
+Moyinoluwa Akin-Adamu
+##
+Niraj Gautam
+##
+Jinal Mehta
+##
+Pavleen Kaur
 
 
 ## 
