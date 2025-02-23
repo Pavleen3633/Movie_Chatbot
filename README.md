@@ -1,7 +1,8 @@
 # Movie_Chatbot
 
 
-00
+![Alt Text](static/main_page.png)
+
 
 ##
 Submission to: Dr. Jennifer Merritt
