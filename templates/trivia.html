@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Movie Trivia Game</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <style>
+    body {
+      background: url("{{ url_for('static', filename='trivia_background.png') }}") no-repeat center center fixed;
+      background-size: cover;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .trivia-container {
+      width: 50%;
+      background: rgba(255, 255, 255, 0.95);
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+      text-align: center;
+    }
+    .trivia-container p {
+      font-size: 1.4em;
+      font-weight: bold;
+      color: #2c3e50;
+    }
+    .trivia-container label {
+      display: block;
+      font-size: 1.2em;
+      margin: 10px 0;
+      cursor: pointer;
+    }
+    button {
+      margin-top: 20px;
+      padding: 12px 25px;
+      font-size: 1.2em;
+      background: #0071e3;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+    button:hover {
+      background: #005bb5;
+    }
+    .message {
+      margin-top: 15px;
+      font-size: 1.2em;
+      font-weight: bold;
+      color: #27ae60;
+    }
+    .button-group {
+      margin-top: 20px;
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+    }
+    .restart-button {
+      background-color: #d9534f;
+    }
+    .restart-button:hover {
+      background-color: #c9302c;
+    }
+    .back-home {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .back-home a {
+      text-decoration: none;
+      font-size: 1.1em;
+      color: #0071e3;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="trivia-container">
+    <h1 class="header">🎬 Movie Trivia Game</h1>
+
+    <form id="triviaForm" method="POST" action="/trivia">
+      <p id="question">{{ question }}</p>
+      {% for option in options %}
+        <label>
+          <input type="radio" name="answer" value="{{ option }}" required> {{ option }}
+        </label>
+      {% endfor %}
+      <button type="submit">Submit Answer</button>
+    </form>
+
+    {% if message %}
+      <div class="message" id="answerMessage">{{ message }}</div>
+      <div class="button-group">
+        <form method="POST" action="/next-trivia">
+          <button type="submit">➡️ Next Question</button>
+        </form>
+        <form method="POST" action="/restart-trivia">
+          <button type="submit" class="restart-button">🔄 Restart Game</button>
+        </form>
+      </div>
+    {% endif %}
+
+    <div class="back-home">
+      <a href="{{ url_for('home') }}">⬅️ Back to Home</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,501 @@
+Movie Title,Genre,IMDB Rating,Release Year,Director,Lead Star Cast,Synopsis
+Inception,Sci-Fi,8.7,2002,Bryan Singer,Michael Fassbender,A blockbuster Sci-Fi masterpiece featuring a star-studded cast and breathtaking action sequences.
+John Wick: Chapter 4,Drama,9.2,2011,Steven Spielberg,Keanu Reeves,A mesmerizing Drama story that explores the depths of human emotions and resilience.
+Django Unchained,Fantasy,7.1,1997,Patty Jenkins,Brad Pitt,"A classic tale of love, loss, and redemption, set in a Fantasy world of intrigue."
+X-Men: First Class,Drama,8.6,1989,Denis Villeneuve,Tom Hanks,"A gripping tale of adventure and mystery, following a Drama journey like never before."
+Tron: Legacy,Comedy,7.9,1986,J.J. Abrams,Robert Downey Jr.,"A classic tale of love, loss, and redemption, set in a Comedy world of intrigue."
+The Shining,Sci-Fi,9.4,2008,Zack Snyder,Jennifer Lawrence,A blockbuster Sci-Fi masterpiece featuring a star-studded cast and breathtaking action sequences.
+Star Wars: A New Hope,Action,9.1,2024,James Cameron,Viola Davis,"A gripping tale of adventure and mystery, following a Action journey like never before."
+Paranormal Activity,Sci-Fi,5.6,2009,Greta Gerwig,Chris Pratt,A thought-provoking Sci-Fi film that challenges perceptions of reality.
+The Shawshank Redemption,Comedy,8.4,2016,Francis Ford Coppola,Natalie Portman,A blockbuster Comedy masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Ring,Adventure,7.9,1990,George Lucas,Benedict Cumberbatch,"A classic tale of love, loss, and redemption, set in a Adventure world of intrigue."
+Frozen,Animation,6.3,2004,David Fincher,Angelina Jolie,"A gripping tale of adventure and mystery, following a Animation journey like never before."
+Harry Potter and the Prisoner of Azkaban,Action,7.0,2010,Peter Jackson,Jennifer Lawrence,A blockbuster Action masterpiece featuring a star-studded cast and breathtaking action sequences.
+Looper,Thriller,5.5,2008,Stanley Kubrick,Christian Bale,"A classic tale of love, loss, and redemption, set in a Thriller world of intrigue."
+Scream,Horror,8.3,2010,Guillermo del Toro,Leonardo DiCaprio,A mesmerizing Horror story that explores the depths of human emotions and resilience.
+Star Wars: The Rise of Skywalker,Action,7.1,1983,Guillermo del Toro,Anne Hathaway,A blockbuster Action masterpiece featuring a star-studded cast and breathtaking action sequences.
+Gravity,Fantasy,5.8,2002,James Cameron,Tom Cruise,A blockbuster Fantasy masterpiece featuring a star-studded cast and breathtaking action sequences.
+Nobody,Action,7.3,1990,Bryan Singer,Will Smith,A mesmerizing Action story that explores the depths of human emotions and resilience.
+The Ring,Animation,8.8,2000,M. Night Shyamalan,Jennifer Lawrence,"A gripping tale of adventure and mystery, following a Animation journey like never before."
+Bohemian Rhapsody,Romance,6.8,1992,Paul Thomas Anderson,Joaquin Phoenix,"A thrilling mix of Romance and action, packed with stunning visuals and unforgettable moments."
+Dumbo,Romance,5.5,2006,Quentin Tarantino,Robert Downey Jr.,A blockbuster Romance masterpiece featuring a star-studded cast and breathtaking action sequences.
+Nobody,Comedy,6.1,2023,Guy Ritchie,Johnny Depp,"A classic tale of love, loss, and redemption, set in a Comedy world of intrigue."
+Venom,Drama,5.2,1985,Guillermo del Toro,Charlize Theron,An intense Drama drama that keeps you on the edge of your seat.
+John Wick: Chapter 4,Action,5.8,2020,M. Night Shyamalan,Benedict Cumberbatch,An intense Action drama that keeps you on the edge of your seat.
+Bambi,Drama,5.2,1983,David Fincher,Chris Hemsworth,An intense Drama drama that keeps you on the edge of your seat.
+Wanted,Action,9.0,2007,J.J. Abrams,Benedict Cumberbatch,A blockbuster Action masterpiece featuring a star-studded cast and breathtaking action sequences.
+Doctor Strange,Fantasy,5.9,2024,Patty Jenkins,Denzel Washington,An intense Fantasy drama that keeps you on the edge of your seat.
+Scott Pilgrim vs. the World,Horror,7.9,2013,James Cameron,Matt Damon,An intense Horror drama that keeps you on the edge of your seat.
+The Flash,Romance,9.5,1988,David Fincher,Robert Downey Jr.,A thought-provoking Romance film that challenges perceptions of reality.
+Joker,Action,7.8,1992,Ridley Scott,Jake Gyllenhaal,A blockbuster Action masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Thing,Drama,7.9,2006,Guillermo del Toro,Anne Hathaway,An intense Drama drama that keeps you on the edge of your seat.
+Logan,Horror,7.9,1992,Peter Jackson,Jennifer Lawrence,A blockbuster Horror masterpiece featuring a star-studded cast and breathtaking action sequences.
+Harry Potter and the Deathly Hallows: Part 2,Drama,5.0,2006,Steven Spielberg,Denzel Washington,A blockbuster Drama masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Old Guard,Romance,7.7,1995,Martin Scorsese,Joaquin Phoenix,"A classic tale of love, loss, and redemption, set in a Romance world of intrigue."
+Cars 3,Horror,9.1,2017,Bryan Singer,Gal Gadot,"A classic tale of love, loss, and redemption, set in a Horror world of intrigue."
+Ex Machina,Fantasy,7.7,2018,Steven Spielberg,Angelina Jolie,A thought-provoking Fantasy film that challenges perceptions of reality.
+The Avengers,Horror,9.2,1987,Peter Jackson,Joaquin Phoenix,An intense Horror drama that keeps you on the edge of your seat.
+Saving Private Ryan,Adventure,6.2,1996,Stanley Kubrick,Chris Pratt,An intense Adventure drama that keeps you on the edge of your seat.
+Onward,Romance,5.7,2010,Spike Lee,Tom Hanks,An intense Romance drama that keeps you on the edge of your seat.
+Wall-E,Action,5.9,1991,Francis Ford Coppola,Natalie Portman,An intense Action drama that keeps you on the edge of your seat.
+Luca,Romance,9.5,2013,Coen Brothers,Scarlett Johansson,A blockbuster Romance masterpiece featuring a star-studded cast and breathtaking action sequences.
+Cars 2,Thriller,7.7,2008,Guy Ritchie,Jake Gyllenhaal,"A thrilling mix of Thriller and action, packed with stunning visuals and unforgettable moments."
+Harry Potter and the Deathly Hallows: Part 2,Romance,5.0,1995,Martin Scorsese,Tom Cruise,A mesmerizing Romance story that explores the depths of human emotions and resilience.
+Soul,Comedy,8.9,2012,George Lucas,Daniel Day-Lewis,An intense Comedy drama that keeps you on the edge of your seat.
+The Irishman,Fantasy,5.7,2008,James Cameron,Chris Hemsworth,"A gripping tale of adventure and mystery, following a Fantasy journey like never before."
+The Fifth Element,Adventure,5.2,2003,Guillermo del Toro,Will Smith,An intense Adventure drama that keeps you on the edge of your seat.
+Wonder Woman,Fantasy,7.8,2020,Coen Brothers,Viola Davis,"A gripping tale of adventure and mystery, following a Fantasy journey like never before."
+Ratatouille,Comedy,6.1,2016,Guy Ritchie,Matt Damon,"A thrilling mix of Comedy and action, packed with stunning visuals and unforgettable moments."
+X-Men: Apocalypse,Thriller,8.0,1993,Taika Waititi,Michael Fassbender,A mesmerizing Thriller story that explores the depths of human emotions and resilience.
+American Psycho,Adventure,9.1,1995,Paul Thomas Anderson,Emma Stone,"A classic tale of love, loss, and redemption, set in a Adventure world of intrigue."
+John Wick: Chapter 2,Comedy,7.9,2020,Patty Jenkins,Tom Cruise,An intense Comedy drama that keeps you on the edge of your seat.
+Spider-Man: No Way Home,Comedy,9.0,1990,Denis Villeneuve,Denzel Washington,"A classic tale of love, loss, and redemption, set in a Comedy world of intrigue."
+Star Wars: The Last Jedi,Animation,6.8,2023,Taika Waititi,Joaquin Phoenix,"A thrilling mix of Animation and action, packed with stunning visuals and unforgettable moments."
+2001: A Space Odyssey,Action,9.0,2011,Damien Chazelle,Keanu Reeves,A mesmerizing Action story that explores the depths of human emotions and resilience.
+Atomic Blonde,Thriller,8.0,1986,Ridley Scott,Scarlett Johansson,A mesmerizing Thriller story that explores the depths of human emotions and resilience.
+Iron Man,Comedy,6.7,2010,Peter Jackson,Chris Pratt,An intense Comedy drama that keeps you on the edge of your seat.
+The Shawshank Redemption,Sci-Fi,8.7,1981,Guillermo del Toro,Chris Hemsworth,"A gripping tale of adventure and mystery, following a Sci-Fi journey like never before."
+The Blair Witch Project,Fantasy,5.4,2013,Francis Ford Coppola,Anne Hathaway,"A classic tale of love, loss, and redemption, set in a Fantasy world of intrigue."
+Zodiac,Fantasy,5.1,2018,Quentin Tarantino,Will Smith,A mesmerizing Fantasy story that explores the depths of human emotions and resilience.
+Soul,Fantasy,7.6,1984,Peter Jackson,Jennifer Lawrence,"A thrilling mix of Fantasy and action, packed with stunning visuals and unforgettable moments."
+Beauty and the Beast,Comedy,5.3,1991,Paul Thomas Anderson,Will Smith,An intense Comedy drama that keeps you on the edge of your seat.
+Annabelle,Animation,8.9,1984,Tim Burton,Joaquin Phoenix,"A gripping tale of adventure and mystery, following a Animation journey like never before."
+Sunshine,Fantasy,9.4,2020,M. Night Shyamalan,Chris Hemsworth,A thought-provoking Fantasy film that challenges perceptions of reality.
+Gravity,Sci-Fi,6.1,2023,Jon Favreau,Viola Davis,"A thrilling mix of Sci-Fi and action, packed with stunning visuals and unforgettable moments."
+Toy Story 2,Comedy,6.2,1985,James Cameron,Emma Stone,"A gripping tale of adventure and mystery, following a Comedy journey like never before."
+Frozen II,Thriller,5.9,2003,Stanley Kubrick,Christian Bale,An intense Thriller drama that keeps you on the edge of your seat.
+Aladdin,Sci-Fi,6.8,1981,Bryan Singer,Anne Hathaway,An intense Sci-Fi drama that keeps you on the edge of your seat.
+Glass Onion,Thriller,7.9,1996,Patty Jenkins,Viola Davis,An intense Thriller drama that keeps you on the edge of your seat.
+Looper,Drama,5.9,1999,M. Night Shyamalan,Hugh Jackman,"A gripping tale of adventure and mystery, following a Drama journey like never before."
+Brave,Comedy,5.1,1983,Francis Ford Coppola,Angelina Jolie,"A thrilling mix of Comedy and action, packed with stunning visuals and unforgettable moments."
+Dumbo,Comedy,9.5,2007,J.J. Abrams,Brad Pitt,"A classic tale of love, loss, and redemption, set in a Comedy world of intrigue."
+The Cabin in the Woods,Sci-Fi,9.4,1993,Spike Lee,Ryan Gosling,A mesmerizing Sci-Fi story that explores the depths of human emotions and resilience.
+The Fly,Fantasy,5.5,1991,George Lucas,Daniel Day-Lewis,A thought-provoking Fantasy film that challenges perceptions of reality.
+Harry Potter and the Chamber of Secrets,Comedy,7.4,1980,Peter Jackson,Tom Cruise,An intense Comedy drama that keeps you on the edge of your seat.
+Moon,Thriller,6.2,2008,Steven Spielberg,Jennifer Lawrence,"A classic tale of love, loss, and redemption, set in a Thriller world of intrigue."
+Ratatouille,Thriller,5.4,1986,Taika Waititi,Chris Pratt,"A classic tale of love, loss, and redemption, set in a Thriller world of intrigue."
+The Sixth Sense,Drama,5.9,2024,Taika Waititi,Charlize Theron,A thought-provoking Drama film that challenges perceptions of reality.
+The King's Man,Thriller,5.0,1992,Quentin Tarantino,Margot Robbie,"A thrilling mix of Thriller and action, packed with stunning visuals and unforgettable moments."
+E.T. the Extra-Terrestrial,Thriller,8.9,2013,Wes Anderson,Will Smith,A mesmerizing Thriller story that explores the depths of human emotions and resilience.
+The Conjuring,Horror,7.1,1994,J.J. Abrams,Matt Damon,A mesmerizing Horror story that explores the depths of human emotions and resilience.
+Dune,Action,9.0,2004,Greta Gerwig,Leonardo DiCaprio,An intense Action drama that keeps you on the edge of your seat.
+Dumbo,Sci-Fi,8.0,2014,M. Night Shyamalan,Denzel Washington,A mesmerizing Sci-Fi story that explores the depths of human emotions and resilience.
+The Shining,Drama,5.7,2019,Stanley Kubrick,Angelina Jolie,"A gripping tale of adventure and mystery, following a Drama journey like never before."
+Harry Potter and the Sorcerer's Stone,Drama,9.4,2014,Damien Chazelle,Gal Gadot,A mesmerizing Drama story that explores the depths of human emotions and resilience.
+Children of Men,Sci-Fi,5.9,2003,Zack Snyder,Daniel Day-Lewis,An intense Sci-Fi drama that keeps you on the edge of your seat.
+The Hateful Eight,Romance,6.0,1981,Denis Villeneuve,Ryan Gosling,A blockbuster Romance masterpiece featuring a star-studded cast and breathtaking action sequences.
+Close Encounters of the Third Kind,Action,8.2,1993,James Cameron,Natalie Portman,An intense Action drama that keeps you on the edge of your seat.
+Edge of Tomorrow,Action,8.3,2001,Francis Ford Coppola,Denzel Washington,"A gripping tale of adventure and mystery, following a Action journey like never before."
+Harry Potter and the Goblet of Fire,Comedy,5.7,2011,Stanley Kubrick,Anne Hathaway,A blockbuster Comedy masterpiece featuring a star-studded cast and breathtaking action sequences.
+Ratatouille,Drama,7.4,1986,Alfred Hitchcock,Will Smith,A thought-provoking Drama film that challenges perceptions of reality.
+Looper,Romance,6.7,2022,Steven Spielberg,Jennifer Lawrence,A blockbuster Romance masterpiece featuring a star-studded cast and breathtaking action sequences.
+No Country for Old Men,Adventure,6.5,2019,Christopher Nolan,Jennifer Lawrence,A blockbuster Adventure masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Thing,Drama,8.0,2010,Greta Gerwig,Keanu Reeves,A blockbuster Drama masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Blair Witch Project,Drama,7.1,2024,Robert Zemeckis,Daniel Day-Lewis,"A gripping tale of adventure and mystery, following a Drama journey like never before."
+Paranormal Activity,Horror,9.0,2003,Taika Waititi,Anne Hathaway,A thought-provoking Horror film that challenges perceptions of reality.
+Speed Racer,Action,6.8,1998,Stanley Kubrick,Jake Gyllenhaal,A mesmerizing Action story that explores the depths of human emotions and resilience.
+John Wick,Horror,8.9,1995,Guy Ritchie,Jennifer Lawrence,"A classic tale of love, loss, and redemption, set in a Horror world of intrigue."
+Harry Potter and the Deathly Hallows: Part 1,Thriller,7.4,2004,Christopher Nolan,Jennifer Lawrence,A thought-provoking Thriller film that challenges perceptions of reality.
+Gravity,Fantasy,6.9,2010,Robert Zemeckis,Denzel Washington,"A gripping tale of adventure and mystery, following a Fantasy journey like never before."
+Speed Racer,Adventure,8.4,2017,Taika Waititi,Angelina Jolie,An intense Adventure drama that keeps you on the edge of your seat.
+American Psycho,Horror,6.9,2019,Guillermo del Toro,Charlize Theron,A thought-provoking Horror film that challenges perceptions of reality.
+Marriage Story,Animation,5.6,1994,Damien Chazelle,Charlize Theron,"A thrilling mix of Animation and action, packed with stunning visuals and unforgettable moments."
+Blade Runner 2049,Animation,7.0,2011,Patty Jenkins,Michael Fassbender,A mesmerizing Animation story that explores the depths of human emotions and resilience.
+The Incredibles 2,Romance,5.1,2024,Martin Scorsese,Joaquin Phoenix,"A thrilling mix of Romance and action, packed with stunning visuals and unforgettable moments."
+Wonder Woman,Thriller,6.7,2004,David Fincher,Chris Pratt,"A thrilling mix of Thriller and action, packed with stunning visuals and unforgettable moments."
+Encanto,Drama,8.3,2010,Paul Thomas Anderson,Charlize Theron,An intense Drama drama that keeps you on the edge of your seat.
+Kingsman: The Golden Circle,Animation,7.3,2019,Paul Thomas Anderson,Chris Pratt,A mesmerizing Animation story that explores the depths of human emotions and resilience.
+Wanted,Fantasy,7.2,1982,Zack Snyder,Benedict Cumberbatch,A mesmerizing Fantasy story that explores the depths of human emotions and resilience.
+Big Hero 6,Romance,6.5,1984,Patty Jenkins,Denzel Washington,A thought-provoking Romance film that challenges perceptions of reality.
+Django Unchained,Animation,5.8,2000,Bryan Singer,Emma Stone,An intense Animation drama that keeps you on the edge of your seat.
+Heat,Thriller,5.9,2020,Taika Waititi,Anne Hathaway,"A gripping tale of adventure and mystery, following a Thriller journey like never before."
+2001: A Space Odyssey,Animation,7.0,2003,Damien Chazelle,Chris Hemsworth,An intense Animation drama that keeps you on the edge of your seat.
+E.T. the Extra-Terrestrial,Adventure,8.0,2008,Coen Brothers,Jake Gyllenhaal,A mesmerizing Adventure story that explores the depths of human emotions and resilience.
+Up,Fantasy,5.6,2000,Zack Snyder,Anne Hathaway,A thought-provoking Fantasy film that challenges perceptions of reality.
+The Flash,Action,8.5,2009,Robert Zemeckis,Scarlett Johansson,"A thrilling mix of Action and action, packed with stunning visuals and unforgettable moments."
+The Exorcist,Comedy,8.3,2009,George Lucas,Will Smith,An intense Comedy drama that keeps you on the edge of your seat.
+American Psycho,Action,9.3,2000,James Cameron,Natalie Portman,A mesmerizing Action story that explores the depths of human emotions and resilience.
+Wall-E,Drama,9.0,2006,Denis Villeneuve,Matt Damon,A mesmerizing Drama story that explores the depths of human emotions and resilience.
+Snow White and the Seven Dwarfs,Sci-Fi,5.1,1982,Steven Spielberg,Benedict Cumberbatch,"A thrilling mix of Sci-Fi and action, packed with stunning visuals and unforgettable moments."
+Annabelle,Sci-Fi,7.0,1987,Greta Gerwig,Natalie Portman,A blockbuster Sci-Fi masterpiece featuring a star-studded cast and breathtaking action sequences.
+Speed Racer,Romance,9.1,2018,Wes Anderson,Scarlett Johansson,"A classic tale of love, loss, and redemption, set in a Romance world of intrigue."
+John Wick: Chapter 3 – Parabellum,Comedy,6.8,1996,J.J. Abrams,Viola Davis,"A thrilling mix of Comedy and action, packed with stunning visuals and unforgettable moments."
+I Am Legend,Comedy,6.5,1993,Steven Spielberg,Christian Bale,An intense Comedy drama that keeps you on the edge of your seat.
+Morbius,Thriller,8.9,2001,Taika Waititi,Margot Robbie,A blockbuster Thriller masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Martian,Action,6.9,2009,Christopher Nolan,Johnny Depp,"A thrilling mix of Action and action, packed with stunning visuals and unforgettable moments."
+Atlantis: The Lost Empire,Adventure,7.2,1986,Damien Chazelle,Jake Gyllenhaal,A mesmerizing Adventure story that explores the depths of human emotions and resilience.
+The Martian,Romance,6.3,2009,Greta Gerwig,Angelina Jolie,A thought-provoking Romance film that challenges perceptions of reality.
+Aquaman,Action,7.1,2016,Zack Snyder,Daniel Day-Lewis,A mesmerizing Action story that explores the depths of human emotions and resilience.
+Gravity,Animation,5.8,1996,George Lucas,Benedict Cumberbatch,"A thrilling mix of Animation and action, packed with stunning visuals and unforgettable moments."
+Sherlock Holmes,Horror,8.1,1986,Ridley Scott,Benedict Cumberbatch,A mesmerizing Horror story that explores the depths of human emotions and resilience.
+X-Men: Apocalypse,Drama,8.0,1983,J.J. Abrams,Chris Hemsworth,"A classic tale of love, loss, and redemption, set in a Drama world of intrigue."
+Annabelle,Horror,9.1,2014,Robert Zemeckis,Chris Pratt,A blockbuster Horror masterpiece featuring a star-studded cast and breathtaking action sequences.
+I Am Legend,Sci-Fi,6.3,1992,Zack Snyder,Keanu Reeves,"A gripping tale of adventure and mystery, following a Sci-Fi journey like never before."
+The Hitman's Wife's Bodyguard,Fantasy,5.2,2002,Zack Snyder,Scarlett Johansson,"A classic tale of love, loss, and redemption, set in a Fantasy world of intrigue."
+Frozen,Animation,7.4,2019,Spike Lee,Angelina Jolie,A mesmerizing Animation story that explores the depths of human emotions and resilience.
+Pacific Rim,Romance,8.0,2010,Quentin Tarantino,Scarlett Johansson,"A classic tale of love, loss, and redemption, set in a Romance world of intrigue."
+The Hitman's Bodyguard,Animation,5.6,2012,Tim Burton,Brad Pitt,"A thrilling mix of Animation and action, packed with stunning visuals and unforgettable moments."
+Gone Girl,Fantasy,7.7,2006,Robert Zemeckis,Brad Pitt,"A gripping tale of adventure and mystery, following a Fantasy journey like never before."
+The Hitman's Bodyguard,Animation,6.4,2020,Tim Burton,Denzel Washington,An intense Animation drama that keeps you on the edge of your seat.
+Annabelle,Horror,7.5,2006,Martin Scorsese,Scarlett Johansson,An intense Horror drama that keeps you on the edge of your seat.
+A Bug's Life,Comedy,7.5,2016,Jon Favreau,Denzel Washington,An intense Comedy drama that keeps you on the edge of your seat.
+Toy Story,Animation,6.6,2017,Guillermo del Toro,Johnny Depp,A thought-provoking Animation film that challenges perceptions of reality.
+Extraction,Sci-Fi,6.7,2020,Bryan Singer,Anne Hathaway,"A thrilling mix of Sci-Fi and action, packed with stunning visuals and unforgettable moments."
+The Terminator,Romance,6.0,1983,Spike Lee,Johnny Depp,"A classic tale of love, loss, and redemption, set in a Romance world of intrigue."
+Fight Club,Sci-Fi,7.1,2019,Guillermo del Toro,Viola Davis,"A thrilling mix of Sci-Fi and action, packed with stunning visuals and unforgettable moments."
+The Departed,Animation,6.9,1999,Stanley Kubrick,Keanu Reeves,A blockbuster Animation masterpiece featuring a star-studded cast and breathtaking action sequences.
+Titanic,Comedy,8.4,1987,Tim Burton,Anne Hathaway,"A classic tale of love, loss, and redemption, set in a Comedy world of intrigue."
+Joker,Sci-Fi,6.4,1986,Paul Thomas Anderson,Michael Fassbender,An intense Sci-Fi drama that keeps you on the edge of your seat.
+Hancock,Drama,7.9,1998,Wes Anderson,Viola Davis,An intense Drama drama that keeps you on the edge of your seat.
+Fantastic Four,Animation,5.0,2017,Paul Thomas Anderson,Matt Damon,A mesmerizing Animation story that explores the depths of human emotions and resilience.
+Harry Potter and the Deathly Hallows: Part 1,Drama,8.5,1987,James Cameron,Scarlett Johansson,A blockbuster Drama masterpiece featuring a star-studded cast and breathtaking action sequences.
+Schindler's List,Animation,9.5,2020,Guillermo del Toro,Angelina Jolie,"A gripping tale of adventure and mystery, following a Animation journey like never before."
+Wreck-It Ralph,Action,7.6,1989,Taika Waititi,Gal Gadot,"A classic tale of love, loss, and redemption, set in a Action world of intrigue."
+Aquaman,Thriller,7.1,1999,Peter Jackson,Natalie Portman,A thought-provoking Thriller film that challenges perceptions of reality.
+Halloween,Action,7.3,1981,Coen Brothers,Johnny Depp,A blockbuster Action masterpiece featuring a star-studded cast and breathtaking action sequences.
+Harry Potter and the Chamber of Secrets,Romance,9.0,2011,Steven Spielberg,Will Smith,A thought-provoking Romance film that challenges perceptions of reality.
+The Irishman,Drama,7.8,2010,Greta Gerwig,Christian Bale,"A classic tale of love, loss, and redemption, set in a Drama world of intrigue."
+Zombieland,Horror,8.1,1983,Ridley Scott,Chris Pratt,"A classic tale of love, loss, and redemption, set in a Horror world of intrigue."
+The Godfather,Animation,6.3,2009,Robert Zemeckis,Daniel Day-Lewis,A blockbuster Animation masterpiece featuring a star-studded cast and breathtaking action sequences.
+Us,Romance,9.4,1999,Taika Waititi,Gal Gadot,A thought-provoking Romance film that challenges perceptions of reality.
+Life,Horror,7.7,1987,Quentin Tarantino,Viola Davis,"A classic tale of love, loss, and redemption, set in a Horror world of intrigue."
+Se7en,Drama,7.8,2024,Peter Jackson,Michael Fassbender,"A gripping tale of adventure and mystery, following a Drama journey like never before."
+Hereditary,Horror,5.4,2001,Jon Favreau,Leonardo DiCaprio,"A thrilling mix of Horror and action, packed with stunning visuals and unforgettable moments."
+The Greatest Showman,Adventure,8.3,1982,Christopher Nolan,Tom Cruise,An intense Adventure drama that keeps you on the edge of your seat.
+Interstellar,Fantasy,6.8,1988,Ridley Scott,Michael Fassbender,A blockbuster Fantasy masterpiece featuring a star-studded cast and breathtaking action sequences.
+Treasure Planet,Sci-Fi,7.0,2005,Alfred Hitchcock,Robert Downey Jr.,A blockbuster Sci-Fi masterpiece featuring a star-studded cast and breathtaking action sequences.
+World War Z,Drama,7.7,2020,David Fincher,Angelina Jolie,"A gripping tale of adventure and mystery, following a Drama journey like never before."
+Carrie,Fantasy,9.0,1986,J.J. Abrams,Matt Damon,"A gripping tale of adventure and mystery, following a Fantasy journey like never before."
+Wonder Woman,Drama,8.7,2003,George Lucas,Jennifer Lawrence,"A gripping tale of adventure and mystery, following a Drama journey like never before."
+Venom,Action,5.2,1999,Damien Chazelle,Angelina Jolie,A thought-provoking Action film that challenges perceptions of reality.
+Birds of Prey,Action,8.5,1997,Coen Brothers,Daniel Day-Lewis,"A classic tale of love, loss, and redemption, set in a Action world of intrigue."
+A Bug's Life,Thriller,8.4,1997,Wes Anderson,Robert Downey Jr.,"A thrilling mix of Thriller and action, packed with stunning visuals and unforgettable moments."
+Birds of Prey,Adventure,8.7,1998,Martin Scorsese,Christian Bale,A mesmerizing Adventure story that explores the depths of human emotions and resilience.
+Jaws,Comedy,6.3,1986,James Cameron,Emma Stone,A thought-provoking Comedy film that challenges perceptions of reality.
+The Godfather,Drama,9.4,2001,Robert Zemeckis,Denzel Washington,A blockbuster Drama masterpiece featuring a star-studded cast and breathtaking action sequences.
+Kingsman: The Golden Circle,Sci-Fi,8.3,2015,Damien Chazelle,Keanu Reeves,A blockbuster Sci-Fi masterpiece featuring a star-studded cast and breathtaking action sequences.
+Sunshine,Thriller,5.0,2012,George Lucas,Hugh Jackman,"A classic tale of love, loss, and redemption, set in a Thriller world of intrigue."
+The Nun,Thriller,5.3,1994,George Lucas,Natalie Portman,A blockbuster Thriller masterpiece featuring a star-studded cast and breathtaking action sequences.
+Sinister,Drama,6.3,1990,Zack Snyder,Leonardo DiCaprio,"A classic tale of love, loss, and redemption, set in a Drama world of intrigue."
+Red Notice,Romance,6.0,1991,Stanley Kubrick,Anne Hathaway,"A gripping tale of adventure and mystery, following a Romance journey like never before."
+Hereditary,Thriller,7.5,1988,Peter Jackson,Margot Robbie,"A classic tale of love, loss, and redemption, set in a Thriller world of intrigue."
+The Departed,Action,8.1,1997,Alfred Hitchcock,Jake Gyllenhaal,"A thrilling mix of Action and action, packed with stunning visuals and unforgettable moments."
+John Wick,Romance,6.5,2023,M. Night Shyamalan,Michael Fassbender,An intense Romance drama that keeps you on the edge of your seat.
+Kick-Ass,Adventure,5.8,1986,Bryan Singer,Will Smith,"A gripping tale of adventure and mystery, following a Adventure journey like never before."
+Paranormal Activity,Horror,6.3,1986,Francis Ford Coppola,Matt Damon,A blockbuster Horror masterpiece featuring a star-studded cast and breathtaking action sequences.
+Lilo & Stitch,Thriller,5.0,1988,Christopher Nolan,Denzel Washington,A blockbuster Thriller masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Martian,Animation,9.1,1993,J.J. Abrams,Benedict Cumberbatch,A mesmerizing Animation story that explores the depths of human emotions and resilience.
+Harry Potter and the Prisoner of Azkaban,Fantasy,5.7,2001,Wes Anderson,Natalie Portman,A thought-provoking Fantasy film that challenges perceptions of reality.
+Mulan,Animation,7.8,2003,George Lucas,Christian Bale,A mesmerizing Animation story that explores the depths of human emotions and resilience.
+The Cabin in the Woods,Comedy,6.3,2014,Denis Villeneuve,Chris Hemsworth,A blockbuster Comedy masterpiece featuring a star-studded cast and breathtaking action sequences.
+Life,Romance,7.9,1982,Stanley Kubrick,Joaquin Phoenix,A blockbuster Romance masterpiece featuring a star-studded cast and breathtaking action sequences.
+Toy Story,Romance,5.5,2012,Zack Snyder,Benedict Cumberbatch,An intense Romance drama that keeps you on the edge of your seat.
+The Irishman,Adventure,8.9,2020,Ridley Scott,Matt Damon,An intense Adventure drama that keeps you on the edge of your seat.
+X-Men: Apocalypse,Adventure,8.7,1989,Guy Ritchie,Margot Robbie,A mesmerizing Adventure story that explores the depths of human emotions and resilience.
+The Babadook,Drama,9.1,1986,Stanley Kubrick,Jennifer Lawrence,A blockbuster Drama masterpiece featuring a star-studded cast and breathtaking action sequences.
+A Star Is Born,Animation,7.7,1995,Robert Zemeckis,Jake Gyllenhaal,A thought-provoking Animation film that challenges perceptions of reality.
+Aladdin,Drama,8.6,2002,James Cameron,Christian Bale,"A thrilling mix of Drama and action, packed with stunning visuals and unforgettable moments."
+Iron Man,Animation,5.0,1988,Ridley Scott,Daniel Day-Lewis,A mesmerizing Animation story that explores the depths of human emotions and resilience.
+Independence Day,Drama,7.5,2000,Damien Chazelle,Michael Fassbender,A blockbuster Drama masterpiece featuring a star-studded cast and breathtaking action sequences.
+World War Z,Sci-Fi,7.2,2002,Zack Snyder,Johnny Depp,An intense Sci-Fi drama that keeps you on the edge of your seat.
+Angels & Demons,Romance,5.2,1995,Spike Lee,Christian Bale,A blockbuster Romance masterpiece featuring a star-studded cast and breathtaking action sequences.
+2001: A Space Odyssey,Sci-Fi,6.1,2009,Stanley Kubrick,Emma Stone,"A thrilling mix of Sci-Fi and action, packed with stunning visuals and unforgettable moments."
+Moana,Romance,8.2,2016,M. Night Shyamalan,Michael Fassbender,"A classic tale of love, loss, and redemption, set in a Romance world of intrigue."
+The Godfather,Fantasy,7.9,2012,Patty Jenkins,Charlize Theron,"A gripping tale of adventure and mystery, following a Fantasy journey like never before."
+Ralph Breaks the Internet,Sci-Fi,5.1,1991,Jon Favreau,Joaquin Phoenix,"A thrilling mix of Sci-Fi and action, packed with stunning visuals and unforgettable moments."
+Deadpool,Sci-Fi,7.7,2016,George Lucas,Margot Robbie,"A gripping tale of adventure and mystery, following a Sci-Fi journey like never before."
+Inception,Horror,6.0,2018,Jon Favreau,Ryan Gosling,"A gripping tale of adventure and mystery, following a Horror journey like never before."
+Children of Men,Thriller,8.3,1990,Martin Scorsese,Will Smith,A blockbuster Thriller masterpiece featuring a star-studded cast and breathtaking action sequences.
+Titanic,Sci-Fi,7.7,1996,Jon Favreau,Ryan Gosling,"A gripping tale of adventure and mystery, following a Sci-Fi journey like never before."
+Encanto,Horror,5.6,2012,Martin Scorsese,Joaquin Phoenix,A blockbuster Horror masterpiece featuring a star-studded cast and breathtaking action sequences.
+Ex Machina,Adventure,6.9,1986,Wes Anderson,Daniel Day-Lewis,A blockbuster Adventure masterpiece featuring a star-studded cast and breathtaking action sequences.
+Once Upon a Time in Hollywood,Fantasy,7.4,2018,Ridley Scott,Scarlett Johansson,A thought-provoking Fantasy film that challenges perceptions of reality.
+The Usual Suspects,Horror,5.5,1999,Denis Villeneuve,Angelina Jolie,A thought-provoking Horror film that challenges perceptions of reality.
+The Lord of the Rings: The Two Towers,Action,7.8,2017,Spike Lee,Tom Hanks,"A classic tale of love, loss, and redemption, set in a Action world of intrigue."
+Whiplash,Horror,6.2,1989,Wes Anderson,Jennifer Lawrence,"A classic tale of love, loss, and redemption, set in a Horror world of intrigue."
+Cars 2,Romance,6.7,1984,Alfred Hitchcock,Christian Bale,An intense Romance drama that keeps you on the edge of your seat.
+Speed Racer,Sci-Fi,6.2,1990,Robert Zemeckis,Viola Davis,"A classic tale of love, loss, and redemption, set in a Sci-Fi world of intrigue."
+The Shining,Action,6.5,2010,Christopher Nolan,Daniel Day-Lewis,A mesmerizing Action story that explores the depths of human emotions and resilience.
+Wonder Woman,Adventure,6.9,2009,Peter Jackson,Natalie Portman,"A classic tale of love, loss, and redemption, set in a Adventure world of intrigue."
+Glass Onion,Romance,5.7,2013,Steven Spielberg,Gal Gadot,A blockbuster Romance masterpiece featuring a star-studded cast and breathtaking action sequences.
+Mulan,Sci-Fi,6.1,2020,Stanley Kubrick,Johnny Depp,A thought-provoking Sci-Fi film that challenges perceptions of reality.
+"Monsters, Inc.",Fantasy,9.0,1984,M. Night Shyamalan,Matt Damon,An intense Fantasy drama that keeps you on the edge of your seat.
+The Hitman's Bodyguard,Fantasy,6.3,2003,Patty Jenkins,Matt Damon,"A classic tale of love, loss, and redemption, set in a Fantasy world of intrigue."
+The Cabin in the Woods,Animation,8.7,1999,Martin Scorsese,Chris Pratt,A blockbuster Animation masterpiece featuring a star-studded cast and breathtaking action sequences.
+Once Upon a Time in Hollywood,Fantasy,6.7,1986,Jon Favreau,Matt Damon,A mesmerizing Fantasy story that explores the depths of human emotions and resilience.
+Gladiator,Fantasy,6.5,1995,Paul Thomas Anderson,Benedict Cumberbatch,"A gripping tale of adventure and mystery, following a Fantasy journey like never before."
+Blade Runner,Horror,7.9,1981,Ridley Scott,Natalie Portman,"A classic tale of love, loss, and redemption, set in a Horror world of intrigue."
+Ready Player One,Animation,7.3,2006,Peter Jackson,Viola Davis,"A thrilling mix of Animation and action, packed with stunning visuals and unforgettable moments."
+The Fly,Romance,7.5,2005,Steven Spielberg,Hugh Jackman,A blockbuster Romance masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Lord of the Rings: The Fellowship of the Ring,Horror,6.1,2008,Francis Ford Coppola,Keanu Reeves,"A thrilling mix of Horror and action, packed with stunning visuals and unforgettable moments."
+Luca,Comedy,7.5,2001,James Cameron,Hugh Jackman,A thought-provoking Comedy film that challenges perceptions of reality.
+The Ring,Animation,8.1,2016,Ridley Scott,Michael Fassbender,A thought-provoking Animation film that challenges perceptions of reality.
+The Lord of the Rings: The Two Towers,Thriller,8.8,1984,Coen Brothers,Joaquin Phoenix,An intense Thriller drama that keeps you on the edge of your seat.
+Sleeping Beauty,Sci-Fi,7.4,2000,George Lucas,Tom Cruise,"A gripping tale of adventure and mystery, following a Sci-Fi journey like never before."
+Blade Runner 2049,Animation,8.8,1982,Guy Ritchie,Viola Davis,"A classic tale of love, loss, and redemption, set in a Animation world of intrigue."
+Cars 3,Drama,8.0,1989,Alfred Hitchcock,Robert Downey Jr.,A thought-provoking Drama film that challenges perceptions of reality.
+Cloverfield,Horror,5.0,1983,Spike Lee,Will Smith,A thought-provoking Horror film that challenges perceptions of reality.
+The Incredibles,Comedy,6.0,2008,George Lucas,Natalie Portman,A thought-provoking Comedy film that challenges perceptions of reality.
+Hereditary,Romance,8.8,1992,Patty Jenkins,Natalie Portman,A thought-provoking Romance film that challenges perceptions of reality.
+Toy Story 2,Action,8.5,2006,Coen Brothers,Angelina Jolie,"A thrilling mix of Action and action, packed with stunning visuals and unforgettable moments."
+Lilo & Stitch,Thriller,6.2,1980,Paul Thomas Anderson,Hugh Jackman,"A gripping tale of adventure and mystery, following a Thriller journey like never before."
+War of the Worlds,Sci-Fi,8.8,1992,Zack Snyder,Viola Davis,A thought-provoking Sci-Fi film that challenges perceptions of reality.
+The Avengers,Animation,8.5,2000,Coen Brothers,Scarlett Johansson,An intense Animation drama that keeps you on the edge of your seat.
+Red Notice,Drama,5.2,2006,Francis Ford Coppola,Margot Robbie,A blockbuster Drama masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Avengers,Fantasy,5.3,1989,Denis Villeneuve,Robert Downey Jr.,"A gripping tale of adventure and mystery, following a Fantasy journey like never before."
+Hereditary,Animation,8.4,1981,Zack Snyder,Jennifer Lawrence,An intense Animation drama that keeps you on the edge of your seat.
+Up,Thriller,6.5,1992,Stanley Kubrick,Charlize Theron,"A classic tale of love, loss, and redemption, set in a Thriller world of intrigue."
+Tarzan,Horror,6.9,1983,Jon Favreau,Viola Davis,"A classic tale of love, loss, and redemption, set in a Horror world of intrigue."
+Star Wars: The Rise of Skywalker,Drama,8.4,1997,Stanley Kubrick,Chris Pratt,A mesmerizing Drama story that explores the depths of human emotions and resilience.
+Annihilation,Action,6.1,2007,Peter Jackson,Viola Davis,A blockbuster Action masterpiece featuring a star-studded cast and breathtaking action sequences.
+Pandorum,Fantasy,5.4,2013,Coen Brothers,Anne Hathaway,A thought-provoking Fantasy film that challenges perceptions of reality.
+Gone Girl,Adventure,6.0,2011,M. Night Shyamalan,Matt Damon,"A gripping tale of adventure and mystery, following a Adventure journey like never before."
+A Beautiful Mind,Animation,8.6,1993,Steven Spielberg,Viola Davis,An intense Animation drama that keeps you on the edge of your seat.
+Titanic,Animation,9.2,1988,Denis Villeneuve,Emma Stone,A blockbuster Animation masterpiece featuring a star-studded cast and breathtaking action sequences.
+Jurassic Park,Sci-Fi,7.4,2006,Alfred Hitchcock,Will Smith,"A thrilling mix of Sci-Fi and action, packed with stunning visuals and unforgettable moments."
+Memento,Comedy,6.1,1980,Greta Gerwig,Jennifer Lawrence,A blockbuster Comedy masterpiece featuring a star-studded cast and breathtaking action sequences.
+Get Out,Action,6.4,2024,Alfred Hitchcock,Michael Fassbender,A mesmerizing Action story that explores the depths of human emotions and resilience.
+Toy Story 2,Horror,6.8,2019,James Cameron,Jennifer Lawrence,A mesmerizing Horror story that explores the depths of human emotions and resilience.
+Insidious,Adventure,5.8,2001,James Cameron,Joaquin Phoenix,A blockbuster Adventure masterpiece featuring a star-studded cast and breathtaking action sequences.
+Star Wars: A New Hope,Comedy,9.4,2015,Tim Burton,Charlize Theron,"A classic tale of love, loss, and redemption, set in a Comedy world of intrigue."
+Harry Potter and the Sorcerer's Stone,Action,8.8,1980,Steven Spielberg,Joaquin Phoenix,An intense Action drama that keeps you on the edge of your seat.
+Glass Onion,Fantasy,5.8,2023,Damien Chazelle,Daniel Day-Lewis,A thought-provoking Fantasy film that challenges perceptions of reality.
+Paranormal Activity,Fantasy,8.2,2023,Bryan Singer,Tom Cruise,"A gripping tale of adventure and mystery, following a Fantasy journey like never before."
+Nightcrawler,Thriller,5.4,2012,Bryan Singer,Keanu Reeves,A mesmerizing Thriller story that explores the depths of human emotions and resilience.
+Halloween,Action,9.2,1982,George Lucas,Michael Fassbender,"A thrilling mix of Action and action, packed with stunning visuals and unforgettable moments."
+Good Will Hunting,Horror,6.8,2000,Taika Waititi,Natalie Portman,A thought-provoking Horror film that challenges perceptions of reality.
+The Big Short,Fantasy,7.9,2002,Steven Spielberg,Jennifer Lawrence,A thought-provoking Fantasy film that challenges perceptions of reality.
+Get Out,Thriller,7.8,1992,Robert Zemeckis,Hugh Jackman,"A thrilling mix of Thriller and action, packed with stunning visuals and unforgettable moments."
+Doctor Strange,Horror,5.7,2010,Guy Ritchie,Charlize Theron,A thought-provoking Horror film that challenges perceptions of reality.
+The Shining,Horror,5.7,1980,Jon Favreau,Chris Pratt,"A gripping tale of adventure and mystery, following a Horror journey like never before."
+Inception,Action,6.4,2012,Robert Zemeckis,Johnny Depp,A blockbuster Action masterpiece featuring a star-studded cast and breathtaking action sequences.
+Cinderella,Drama,6.9,1990,Greta Gerwig,Joaquin Phoenix,A mesmerizing Drama story that explores the depths of human emotions and resilience.
+Ex Machina,Drama,5.0,1984,Alfred Hitchcock,Anne Hathaway,"A classic tale of love, loss, and redemption, set in a Drama world of intrigue."
+The Road to Perdition,Fantasy,8.0,2023,Alfred Hitchcock,Keanu Reeves,A mesmerizing Fantasy story that explores the depths of human emotions and resilience.
+The Dark Knight,Thriller,8.1,2023,Alfred Hitchcock,Brad Pitt,A thought-provoking Thriller film that challenges perceptions of reality.
+Terminator 2: Judgment Day,Comedy,7.5,1983,Guillermo del Toro,Tom Hanks,"A thrilling mix of Comedy and action, packed with stunning visuals and unforgettable moments."
+Ex Machina,Drama,6.3,1989,Paul Thomas Anderson,Jake Gyllenhaal,"A gripping tale of adventure and mystery, following a Drama journey like never before."
+Memento,Action,6.9,2007,Zack Snyder,Jake Gyllenhaal,An intense Action drama that keeps you on the edge of your seat.
+Spider-Man: No Way Home,Horror,6.9,1996,Martin Scorsese,Benedict Cumberbatch,A mesmerizing Horror story that explores the depths of human emotions and resilience.
+Star Wars: The Last Jedi,Drama,8.8,2007,Guy Ritchie,Natalie Portman,"A classic tale of love, loss, and redemption, set in a Drama world of intrigue."
+Hercules,Drama,6.6,1998,Robert Zemeckis,Chris Pratt,A mesmerizing Drama story that explores the depths of human emotions and resilience.
+Harry Potter and the Sorcerer's Stone,Thriller,5.4,1993,Bryan Singer,Joaquin Phoenix,"A gripping tale of adventure and mystery, following a Thriller journey like never before."
+Scott Pilgrim vs. the World,Thriller,8.9,1999,Wes Anderson,Keanu Reeves,"A thrilling mix of Thriller and action, packed with stunning visuals and unforgettable moments."
+The Fly,Comedy,8.7,2014,Taika Waititi,Hugh Jackman,A mesmerizing Comedy story that explores the depths of human emotions and resilience.
+Red Notice,Adventure,7.8,2016,Christopher Nolan,Leonardo DiCaprio,"A gripping tale of adventure and mystery, following a Adventure journey like never before."
+Toy Story,Adventure,9.1,1990,David Fincher,Benedict Cumberbatch,A blockbuster Adventure masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Ring,Fantasy,8.0,2006,Taika Waititi,Viola Davis,"A thrilling mix of Fantasy and action, packed with stunning visuals and unforgettable moments."
+Children of Men,Fantasy,8.4,2017,James Cameron,Chris Pratt,A mesmerizing Fantasy story that explores the depths of human emotions and resilience.
+Heat,Fantasy,7.9,1992,Christopher Nolan,Tom Hanks,A thought-provoking Fantasy film that challenges perceptions of reality.
+Dune,Adventure,9.0,1982,Tim Burton,Daniel Day-Lewis,A thought-provoking Adventure film that challenges perceptions of reality.
+Tangled,Sci-Fi,6.5,2011,Taika Waititi,Christian Bale,"A thrilling mix of Sci-Fi and action, packed with stunning visuals and unforgettable moments."
+Atomic Blonde,Horror,7.1,2014,Denis Villeneuve,Leonardo DiCaprio,A blockbuster Horror masterpiece featuring a star-studded cast and breathtaking action sequences.
+Ready Player One,Action,5.0,1989,Christopher Nolan,Ryan Gosling,A thought-provoking Action film that challenges perceptions of reality.
+Edge of Tomorrow,Romance,6.6,1996,Taika Waititi,Michael Fassbender,"A classic tale of love, loss, and redemption, set in a Romance world of intrigue."
+Paranormal Activity,Drama,6.0,1991,Alfred Hitchcock,Matt Damon,A blockbuster Drama masterpiece featuring a star-studded cast and breathtaking action sequences.
+Wreck-It Ralph,Horror,6.8,1994,Zack Snyder,Christian Bale,"A classic tale of love, loss, and redemption, set in a Horror world of intrigue."
+The Grand Budapest Hotel,Comedy,5.3,1984,Wes Anderson,Matt Damon,"A gripping tale of adventure and mystery, following a Comedy journey like never before."
+Wreck-It Ralph,Fantasy,5.1,2019,Peter Jackson,Daniel Day-Lewis,"A classic tale of love, loss, and redemption, set in a Fantasy world of intrigue."
+Lilo & Stitch,Sci-Fi,5.2,2012,Christopher Nolan,Johnny Depp,"A thrilling mix of Sci-Fi and action, packed with stunning visuals and unforgettable moments."
+Logan,Sci-Fi,6.0,2024,M. Night Shyamalan,Denzel Washington,A mesmerizing Sci-Fi story that explores the depths of human emotions and resilience.
+Paranormal Activity,Romance,5.5,2023,Francis Ford Coppola,Emma Stone,A mesmerizing Romance story that explores the depths of human emotions and resilience.
+Venom,Romance,8.3,1999,Bryan Singer,Natalie Portman,"A gripping tale of adventure and mystery, following a Romance journey like never before."
+The Fly,Animation,6.5,1999,David Fincher,Margot Robbie,An intense Animation drama that keeps you on the edge of your seat.
+Zombieland,Fantasy,6.6,1997,Coen Brothers,Anne Hathaway,"A gripping tale of adventure and mystery, following a Fantasy journey like never before."
+Star Wars: The Force Awakens,Drama,9.5,2009,Robert Zemeckis,Benedict Cumberbatch,"A thrilling mix of Drama and action, packed with stunning visuals and unforgettable moments."
+Wall-E,Comedy,5.7,2009,Zack Snyder,Benedict Cumberbatch,"A classic tale of love, loss, and redemption, set in a Comedy world of intrigue."
+Moon,Comedy,8.4,2020,Steven Spielberg,Gal Gadot,A thought-provoking Comedy film that challenges perceptions of reality.
+War of the Worlds,Comedy,6.2,1995,Guy Ritchie,Michael Fassbender,A blockbuster Comedy masterpiece featuring a star-studded cast and breathtaking action sequences.
+28 Days Later,Romance,7.0,2012,Ridley Scott,Matt Damon,A mesmerizing Romance story that explores the depths of human emotions and resilience.
+A Quiet Place,Comedy,8.3,2004,J.J. Abrams,Denzel Washington,An intense Comedy drama that keeps you on the edge of your seat.
+Hereditary,Adventure,6.0,1999,James Cameron,Natalie Portman,A mesmerizing Adventure story that explores the depths of human emotions and resilience.
+Batman Begins,Fantasy,8.8,1986,Denis Villeneuve,Charlize Theron,A thought-provoking Fantasy film that challenges perceptions of reality.
+2001: A Space Odyssey,Thriller,6.9,1989,George Lucas,Hugh Jackman,A mesmerizing Thriller story that explores the depths of human emotions and resilience.
+Finding Dory,Action,6.5,1989,M. Night Shyamalan,Joaquin Phoenix,"A classic tale of love, loss, and redemption, set in a Action world of intrigue."
+The Ring,Animation,7.0,2012,James Cameron,Tom Hanks,A thought-provoking Animation film that challenges perceptions of reality.
+Big Hero 6,Adventure,8.2,2000,George Lucas,Anne Hathaway,"A gripping tale of adventure and mystery, following a Adventure journey like never before."
+Inside Out,Fantasy,6.4,1999,Robert Zemeckis,Tom Hanks,A mesmerizing Fantasy story that explores the depths of human emotions and resilience.
+Hereditary,Animation,7.8,2014,David Fincher,Joaquin Phoenix,A blockbuster Animation masterpiece featuring a star-studded cast and breathtaking action sequences.
+Django Unchained,Action,6.8,1998,Peter Jackson,Will Smith,A mesmerizing Action story that explores the depths of human emotions and resilience.
+La La Land,Adventure,7.2,1991,Guy Ritchie,Joaquin Phoenix,"A gripping tale of adventure and mystery, following a Adventure journey like never before."
+Up,Drama,7.6,2020,Guy Ritchie,Emma Stone,"A thrilling mix of Drama and action, packed with stunning visuals and unforgettable moments."
+Star Wars: The Rise of Skywalker,Animation,8.2,2010,Jon Favreau,Charlize Theron,A mesmerizing Animation story that explores the depths of human emotions and resilience.
+Kingsman: The Secret Service,Thriller,7.9,1998,Greta Gerwig,Joaquin Phoenix,An intense Thriller drama that keeps you on the edge of your seat.
+Toy Story,Drama,7.8,2017,M. Night Shyamalan,Scarlett Johansson,"A classic tale of love, loss, and redemption, set in a Drama world of intrigue."
+The Big Short,Fantasy,6.2,2012,Steven Spielberg,Tom Hanks,A blockbuster Fantasy masterpiece featuring a star-studded cast and breathtaking action sequences.
+Life,Romance,6.2,1991,Patty Jenkins,Chris Hemsworth,A thought-provoking Romance film that challenges perceptions of reality.
+Wanted,Animation,8.1,1987,Martin Scorsese,Denzel Washington,A thought-provoking Animation film that challenges perceptions of reality.
+Treasure Planet,Horror,7.1,2015,Greta Gerwig,Denzel Washington,"A gripping tale of adventure and mystery, following a Horror journey like never before."
+Toy Story 3,Adventure,6.0,2009,Peter Jackson,Benedict Cumberbatch,A thought-provoking Adventure film that challenges perceptions of reality.
+The King's Man,Adventure,8.8,2003,Bryan Singer,Scarlett Johansson,A blockbuster Adventure masterpiece featuring a star-studded cast and breathtaking action sequences.
+Black Panther,Comedy,8.5,1989,Zack Snyder,Charlize Theron,"A thrilling mix of Comedy and action, packed with stunning visuals and unforgettable moments."
+The Invisible Man,Sci-Fi,5.7,1985,Denis Villeneuve,Charlize Theron,An intense Sci-Fi drama that keeps you on the edge of your seat.
+Harry Potter and the Deathly Hallows: Part 2,Adventure,7.3,2016,Martin Scorsese,Joaquin Phoenix,"A thrilling mix of Adventure and action, packed with stunning visuals and unforgettable moments."
+La La Land,Thriller,7.8,2020,Martin Scorsese,Robert Downey Jr.,A thought-provoking Thriller film that challenges perceptions of reality.
+Paranormal Activity,Comedy,7.3,2008,Bryan Singer,Viola Davis,A mesmerizing Comedy story that explores the depths of human emotions and resilience.
+The Incredible Hulk,Sci-Fi,6.2,2020,Zack Snyder,Jake Gyllenhaal,An intense Sci-Fi drama that keeps you on the edge of your seat.
+Finding Nemo,Action,6.1,1995,Denis Villeneuve,Angelina Jolie,"A classic tale of love, loss, and redemption, set in a Action world of intrigue."
+Frozen II,Thriller,9.4,2018,Greta Gerwig,Robert Downey Jr.,"A thrilling mix of Thriller and action, packed with stunning visuals and unforgettable moments."
+Big Hero 6,Animation,8.1,1982,Robert Zemeckis,Tom Cruise,A blockbuster Animation masterpiece featuring a star-studded cast and breathtaking action sequences.
+Encanto,Romance,7.8,2003,M. Night Shyamalan,Matt Damon,"A gripping tale of adventure and mystery, following a Romance journey like never before."
+Nobody,Adventure,5.2,1997,Coen Brothers,Charlize Theron,An intense Adventure drama that keeps you on the edge of your seat.
+Inferno,Fantasy,6.3,1980,Robert Zemeckis,Tom Hanks,"A thrilling mix of Fantasy and action, packed with stunning visuals and unforgettable moments."
+Blade Runner 2049,Fantasy,5.6,2006,Stanley Kubrick,Anne Hathaway,An intense Fantasy drama that keeps you on the edge of your seat.
+War of the Worlds,Sci-Fi,8.4,1988,Bryan Singer,Anne Hathaway,A mesmerizing Sci-Fi story that explores the depths of human emotions and resilience.
+Snow White and the Seven Dwarfs,Thriller,5.3,2020,Denis Villeneuve,Matt Damon,An intense Thriller drama that keeps you on the edge of your seat.
+Close Encounters of the Third Kind,Thriller,5.8,1996,Stanley Kubrick,Margot Robbie,A thought-provoking Thriller film that challenges perceptions of reality.
+The Sixth Sense,Comedy,7.2,2017,Paul Thomas Anderson,Robert Downey Jr.,A mesmerizing Comedy story that explores the depths of human emotions and resilience.
+Tron: Legacy,Action,8.1,1988,Patty Jenkins,Chris Hemsworth,An intense Action drama that keeps you on the edge of your seat.
+The Matrix,Horror,7.6,2015,Peter Jackson,Gal Gadot,"A thrilling mix of Horror and action, packed with stunning visuals and unforgettable moments."
+The Invisible Man,Animation,6.9,1980,Stanley Kubrick,Matt Damon,"A classic tale of love, loss, and redemption, set in a Animation world of intrigue."
+World War Z,Sci-Fi,7.7,2008,Alfred Hitchcock,Chris Hemsworth,"A classic tale of love, loss, and redemption, set in a Sci-Fi world of intrigue."
+Hercules,Romance,5.4,1983,Christopher Nolan,Keanu Reeves,"A classic tale of love, loss, and redemption, set in a Romance world of intrigue."
+Wanted,Sci-Fi,9.4,2024,Steven Spielberg,Leonardo DiCaprio,"A gripping tale of adventure and mystery, following a Sci-Fi journey like never before."
+Terminator 2: Judgment Day,Drama,7.0,1996,Denis Villeneuve,Jennifer Lawrence,"A thrilling mix of Drama and action, packed with stunning visuals and unforgettable moments."
+Wanted,Comedy,5.6,1999,Greta Gerwig,Ryan Gosling,A blockbuster Comedy masterpiece featuring a star-studded cast and breathtaking action sequences.
+War of the Worlds,Romance,5.3,1981,Wes Anderson,Will Smith,"A gripping tale of adventure and mystery, following a Romance journey like never before."
+The Invisible Man,Drama,7.9,2020,Spike Lee,Margot Robbie,A blockbuster Drama masterpiece featuring a star-studded cast and breathtaking action sequences.
+Annabelle,Adventure,8.7,2017,Robert Zemeckis,Anne Hathaway,A thought-provoking Adventure film that challenges perceptions of reality.
+Star Wars: A New Hope,Horror,9.2,1985,Denis Villeneuve,Margot Robbie,An intense Horror drama that keeps you on the edge of your seat.
+Prisoners,Horror,8.0,2015,Patty Jenkins,Jake Gyllenhaal,A blockbuster Horror masterpiece featuring a star-studded cast and breathtaking action sequences.
+Wreck-It Ralph,Adventure,6.5,2010,Martin Scorsese,Natalie Portman,A mesmerizing Adventure story that explores the depths of human emotions and resilience.
+The King's Man,Adventure,8.6,1988,Wes Anderson,Angelina Jolie,A blockbuster Adventure masterpiece featuring a star-studded cast and breathtaking action sequences.
+Memento,Fantasy,6.7,2012,Alfred Hitchcock,Chris Pratt,A blockbuster Fantasy masterpiece featuring a star-studded cast and breathtaking action sequences.
+Ex Machina,Comedy,8.5,1997,Peter Jackson,Emma Stone,"A classic tale of love, loss, and redemption, set in a Comedy world of intrigue."
+Looper,Fantasy,5.3,1983,Greta Gerwig,Scarlett Johansson,"A thrilling mix of Fantasy and action, packed with stunning visuals and unforgettable moments."
+Big Hero 6,Romance,7.0,2018,Spike Lee,Scarlett Johansson,A thought-provoking Romance film that challenges perceptions of reality.
+Pocahontas,Sci-Fi,7.8,2018,Robert Zemeckis,Chris Pratt,A blockbuster Sci-Fi masterpiece featuring a star-studded cast and breathtaking action sequences.
+Thor: Ragnarok,Comedy,6.0,1981,Steven Spielberg,Leonardo DiCaprio,"A gripping tale of adventure and mystery, following a Comedy journey like never before."
+The Exorcist,Romance,5.9,1983,Tim Burton,Tom Cruise,A thought-provoking Romance film that challenges perceptions of reality.
+The Hitman's Bodyguard,Drama,7.3,2007,Tim Burton,Joaquin Phoenix,"A classic tale of love, loss, and redemption, set in a Drama world of intrigue."
+Doctor Strange,Horror,7.8,2011,Bryan Singer,Ryan Gosling,"A classic tale of love, loss, and redemption, set in a Horror world of intrigue."
+The Little Mermaid,Comedy,7.5,1999,Bryan Singer,Christian Bale,A thought-provoking Comedy film that challenges perceptions of reality.
+It,Romance,9.0,2010,Patty Jenkins,Chris Pratt,A blockbuster Romance masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Lighthouse,Romance,7.5,2017,Peter Jackson,Anne Hathaway,A mesmerizing Romance story that explores the depths of human emotions and resilience.
+Inferno,Fantasy,8.2,2005,Steven Spielberg,Angelina Jolie,A thought-provoking Fantasy film that challenges perceptions of reality.
+Sunshine,Fantasy,7.2,1991,Jon Favreau,Gal Gadot,"A gripping tale of adventure and mystery, following a Fantasy journey like never before."
+The Godfather,Fantasy,6.0,2010,Quentin Tarantino,Denzel Washington,"A thrilling mix of Fantasy and action, packed with stunning visuals and unforgettable moments."
+Encanto,Adventure,6.5,2018,Wes Anderson,Natalie Portman,A thought-provoking Adventure film that challenges perceptions of reality.
+The Lego Movie,Thriller,6.1,2004,Denis Villeneuve,Tom Hanks,A blockbuster Thriller masterpiece featuring a star-studded cast and breathtaking action sequences.
+Jaws,Comedy,9.2,1983,Tim Burton,Emma Stone,An intense Comedy drama that keeps you on the edge of your seat.
+A Nightmare on Elm Street,Fantasy,6.1,1998,Coen Brothers,Chris Hemsworth,A thought-provoking Fantasy film that challenges perceptions of reality.
+Forrest Gump,Horror,5.3,1980,Jon Favreau,Johnny Depp,An intense Horror drama that keeps you on the edge of your seat.
+John Wick,Adventure,8.4,2000,J.J. Abrams,Anne Hathaway,An intense Adventure drama that keeps you on the edge of your seat.
+Interstellar,Animation,5.4,1988,Peter Jackson,Leonardo DiCaprio,A blockbuster Animation masterpiece featuring a star-studded cast and breathtaking action sequences.
+Doctor Strange,Horror,6.4,2008,Paul Thomas Anderson,Angelina Jolie,A blockbuster Horror masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Conjuring,Fantasy,9.4,2000,Alfred Hitchcock,Margot Robbie,A blockbuster Fantasy masterpiece featuring a star-studded cast and breathtaking action sequences.
+Star Wars: The Rise of Skywalker,Animation,8.6,2024,Quentin Tarantino,Gal Gadot,"A gripping tale of adventure and mystery, following a Animation journey like never before."
+Mulan,Romance,8.6,2014,Paul Thomas Anderson,Michael Fassbender,A mesmerizing Romance story that explores the depths of human emotions and resilience.
+Shazam!,Fantasy,9.4,2022,David Fincher,Keanu Reeves,An intense Fantasy drama that keeps you on the edge of your seat.
+Avatar,Comedy,6.1,2006,Zack Snyder,Margot Robbie,An intense Comedy drama that keeps you on the edge of your seat.
+Pocahontas,Sci-Fi,6.7,1984,J.J. Abrams,Scarlett Johansson,A thought-provoking Sci-Fi film that challenges perceptions of reality.
+Atomic Blonde,Adventure,6.9,2003,Jon Favreau,Matt Damon,"A gripping tale of adventure and mystery, following a Adventure journey like never before."
+The Lord of the Rings: The Two Towers,Romance,7.6,2014,J.J. Abrams,Scarlett Johansson,An intense Romance drama that keeps you on the edge of your seat.
+A Bug's Life,Thriller,6.5,1996,Taika Waititi,Viola Davis,"A thrilling mix of Thriller and action, packed with stunning visuals and unforgettable moments."
+Bohemian Rhapsody,Adventure,8.4,1998,Denis Villeneuve,Ryan Gosling,A thought-provoking Adventure film that challenges perceptions of reality.
+Cars,Drama,8.5,1991,Damien Chazelle,Johnny Depp,"A thrilling mix of Drama and action, packed with stunning visuals and unforgettable moments."
+Blade Runner 2049,Comedy,8.2,2016,Coen Brothers,Tom Hanks,A blockbuster Comedy masterpiece featuring a star-studded cast and breathtaking action sequences.
+Shaun of the Dead,Adventure,6.3,2017,Wes Anderson,Natalie Portman,"A gripping tale of adventure and mystery, following a Adventure journey like never before."
+Harry Potter and the Half-Blood Prince,Thriller,6.5,2005,J.J. Abrams,Jennifer Lawrence,"A thrilling mix of Thriller and action, packed with stunning visuals and unforgettable moments."
+The Incredibles,Adventure,5.3,2009,Alfred Hitchcock,Keanu Reeves,"A classic tale of love, loss, and redemption, set in a Adventure world of intrigue."
+The Grand Budapest Hotel,Adventure,8.6,2011,Guillermo del Toro,Daniel Day-Lewis,A thought-provoking Adventure film that challenges perceptions of reality.
+Bird Box,Romance,7.2,2014,Denis Villeneuve,Brad Pitt,A mesmerizing Romance story that explores the depths of human emotions and resilience.
+Star Wars: The Empire Strikes Back,Romance,6.9,2021,Robert Zemeckis,Emma Stone,"A gripping tale of adventure and mystery, following a Romance journey like never before."
+Gone Girl,Comedy,7.2,1983,Martin Scorsese,Leonardo DiCaprio,"A gripping tale of adventure and mystery, following a Comedy journey like never before."
+Man of Steel,Romance,5.2,2014,George Lucas,Robert Downey Jr.,"A gripping tale of adventure and mystery, following a Romance journey like never before."
+Toy Story,Horror,5.7,1993,James Cameron,Matt Damon,"A gripping tale of adventure and mystery, following a Horror journey like never before."
+Aladdin,Fantasy,7.5,1989,Patty Jenkins,Brad Pitt,A thought-provoking Fantasy film that challenges perceptions of reality.
+The Green Mile,Sci-Fi,5.6,1997,Quentin Tarantino,Scarlett Johansson,A blockbuster Sci-Fi masterpiece featuring a star-studded cast and breathtaking action sequences.
+Turning Red,Drama,7.6,2010,J.J. Abrams,Anne Hathaway,A blockbuster Drama masterpiece featuring a star-studded cast and breathtaking action sequences.
+Murder on the Orient Express,Thriller,7.2,1989,Christopher Nolan,Gal Gadot,A blockbuster Thriller masterpiece featuring a star-studded cast and breathtaking action sequences.
+Joker,Horror,6.8,2003,Steven Spielberg,Viola Davis,"A classic tale of love, loss, and redemption, set in a Horror world of intrigue."
+Jurassic Park,Horror,6.6,1990,Zack Snyder,Ryan Gosling,"A classic tale of love, loss, and redemption, set in a Horror world of intrigue."
+Beauty and the Beast,Drama,6.3,2005,Taika Waititi,Joaquin Phoenix,A mesmerizing Drama story that explores the depths of human emotions and resilience.
+Soul,Thriller,8.2,1981,Robert Zemeckis,Johnny Depp,A blockbuster Thriller masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Hateful Eight,Horror,6.0,1986,Quentin Tarantino,Viola Davis,A thought-provoking Horror film that challenges perceptions of reality.
+Wall-E,Animation,7.1,2021,Quentin Tarantino,Robert Downey Jr.,"A classic tale of love, loss, and redemption, set in a Animation world of intrigue."
+The Suicide Squad,Romance,6.3,2012,George Lucas,Anne Hathaway,A thought-provoking Romance film that challenges perceptions of reality.
+A Bug's Life,Sci-Fi,7.8,1997,George Lucas,Keanu Reeves,A thought-provoking Sci-Fi film that challenges perceptions of reality.
+Independence Day,Sci-Fi,8.6,1980,Peter Jackson,Jake Gyllenhaal,A mesmerizing Sci-Fi story that explores the depths of human emotions and resilience.
+Turning Red,Sci-Fi,7.0,1980,Quentin Tarantino,Joaquin Phoenix,"A gripping tale of adventure and mystery, following a Sci-Fi journey like never before."
+A Star Is Born,Fantasy,5.9,1985,Denis Villeneuve,Tom Hanks,A thought-provoking Fantasy film that challenges perceptions of reality.
+Snow White and the Seven Dwarfs,Sci-Fi,5.2,1985,M. Night Shyamalan,Natalie Portman,"A classic tale of love, loss, and redemption, set in a Sci-Fi world of intrigue."
+Spider-Man: No Way Home,Romance,7.2,2001,Steven Spielberg,Benedict Cumberbatch,A blockbuster Romance masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Social Network,Action,9.1,2014,Francis Ford Coppola,Gal Gadot,An intense Action drama that keeps you on the edge of your seat.
+Schindler's List,Comedy,6.3,1985,Stanley Kubrick,Leonardo DiCaprio,"A classic tale of love, loss, and redemption, set in a Comedy world of intrigue."
+Wonder Woman,Drama,7.2,2007,Spike Lee,Johnny Depp,"A gripping tale of adventure and mystery, following a Drama journey like never before."
+The Silence of the Lambs,Sci-Fi,8.4,2007,Damien Chazelle,Robert Downey Jr.,"A thrilling mix of Sci-Fi and action, packed with stunning visuals and unforgettable moments."
+Cloverfield,Adventure,9.0,1986,Wes Anderson,Emma Stone,A blockbuster Adventure masterpiece featuring a star-studded cast and breathtaking action sequences.
+Toy Story 4,Sci-Fi,6.1,2010,Coen Brothers,Margot Robbie,A blockbuster Sci-Fi masterpiece featuring a star-studded cast and breathtaking action sequences.
+Prisoners,Animation,7.9,1999,Robert Zemeckis,Viola Davis,A blockbuster Animation masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Grudge,Fantasy,9.4,1990,Francis Ford Coppola,Daniel Day-Lewis,"A thrilling mix of Fantasy and action, packed with stunning visuals and unforgettable moments."
+The Fly,Drama,8.9,1995,Denis Villeneuve,Emma Stone,"A gripping tale of adventure and mystery, following a Drama journey like never before."
+Star Wars: The Force Awakens,Adventure,8.5,1989,Steven Spielberg,Gal Gadot,"A thrilling mix of Adventure and action, packed with stunning visuals and unforgettable moments."
+The Lord of the Rings: The Fellowship of the Ring,Adventure,9.1,2018,James Cameron,Matt Damon,A blockbuster Adventure masterpiece featuring a star-studded cast and breathtaking action sequences.
+Red Notice,Fantasy,6.4,1998,Zack Snyder,Benedict Cumberbatch,A mesmerizing Fantasy story that explores the depths of human emotions and resilience.
+Once Upon a Time in Hollywood,Horror,9.3,1986,Bryan Singer,Margot Robbie,A blockbuster Horror masterpiece featuring a star-studded cast and breathtaking action sequences.
+Pandorum,Thriller,7.4,2018,Robert Zemeckis,Michael Fassbender,A blockbuster Thriller masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Thing,Adventure,8.0,2000,James Cameron,Joaquin Phoenix,"A gripping tale of adventure and mystery, following a Adventure journey like never before."
+Joker,Romance,5.3,1981,Christopher Nolan,Chris Hemsworth,A blockbuster Romance masterpiece featuring a star-studded cast and breathtaking action sequences.
+28 Days Later,Thriller,8.2,2009,Jon Favreau,Natalie Portman,"A gripping tale of adventure and mystery, following a Thriller journey like never before."
+The Prestige,Comedy,7.3,2015,Spike Lee,Jake Gyllenhaal,A blockbuster Comedy masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Incredibles 2,Horror,8.3,1986,Taika Waititi,Emma Stone,An intense Horror drama that keeps you on the edge of your seat.
+Sherlock Holmes,Thriller,5.9,2014,Robert Zemeckis,Jennifer Lawrence,"A thrilling mix of Thriller and action, packed with stunning visuals and unforgettable moments."
+Spider-Man: No Way Home,Sci-Fi,8.3,2002,Quentin Tarantino,Daniel Day-Lewis,"A classic tale of love, loss, and redemption, set in a Sci-Fi world of intrigue."
+The Emperor's New Groove,Adventure,7.3,1980,J.J. Abrams,Anne Hathaway,A mesmerizing Adventure story that explores the depths of human emotions and resilience.
+La La Land,Thriller,7.8,1992,Quentin Tarantino,Michael Fassbender,"A thrilling mix of Thriller and action, packed with stunning visuals and unforgettable moments."
+The Fly,Action,6.0,2006,M. Night Shyamalan,Jennifer Lawrence,A mesmerizing Action story that explores the depths of human emotions and resilience.
+John Wick: Chapter 2,Action,7.2,1983,Bryan Singer,Anne Hathaway,An intense Action drama that keeps you on the edge of your seat.
+The Gray Man,Romance,6.8,2022,Patty Jenkins,Gal Gadot,A mesmerizing Romance story that explores the depths of human emotions and resilience.
+Dumbo,Sci-Fi,7.1,1980,Wes Anderson,Natalie Portman,An intense Sci-Fi drama that keeps you on the edge of your seat.
+Finding Dory,Horror,7.4,1995,Stanley Kubrick,Jennifer Lawrence,A mesmerizing Horror story that explores the depths of human emotions and resilience.
+Hereditary,Thriller,7.1,2005,Ridley Scott,Will Smith,"A thrilling mix of Thriller and action, packed with stunning visuals and unforgettable moments."
+Whiplash,Adventure,8.1,2005,David Fincher,Christian Bale,A blockbuster Adventure masterpiece featuring a star-studded cast and breathtaking action sequences.
+Morbius,Romance,5.4,1997,Martin Scorsese,Chris Pratt,"A classic tale of love, loss, and redemption, set in a Romance world of intrigue."
+Shazam!,Drama,5.6,2010,Denis Villeneuve,Matt Damon,A mesmerizing Drama story that explores the depths of human emotions and resilience.
+Se7en,Comedy,6.6,2009,George Lucas,Denzel Washington,A blockbuster Comedy masterpiece featuring a star-studded cast and breathtaking action sequences.
+E.T. the Extra-Terrestrial,Sci-Fi,7.4,2019,Steven Spielberg,Charlize Theron,A mesmerizing Sci-Fi story that explores the depths of human emotions and resilience.
+Fight Club,Action,8.1,2018,Denis Villeneuve,Anne Hathaway,"A classic tale of love, loss, and redemption, set in a Action world of intrigue."
+Marriage Story,Sci-Fi,8.4,2005,Steven Spielberg,Johnny Depp,An intense Sci-Fi drama that keeps you on the edge of your seat.
+Speed Racer,Romance,8.4,2012,Ridley Scott,Margot Robbie,A mesmerizing Romance story that explores the depths of human emotions and resilience.
+Us,Action,8.7,1996,Alfred Hitchcock,Johnny Depp,A blockbuster Action masterpiece featuring a star-studded cast and breathtaking action sequences.
+The Fly,Romance,7.6,1985,Martin Scorsese,Hugh Jackman,A thought-provoking Romance film that challenges perceptions of reality.
+Harry Potter and the Chamber of Secrets,Romance,7.0,2019,Patty Jenkins,Michael Fassbender,"A classic tale of love, loss, and redemption, set in a Romance world of intrigue."
+Speed Racer,Comedy,5.7,2004,Peter Jackson,Robert Downey Jr.,"A classic tale of love, loss, and redemption, set in a Comedy world of intrigue."
+The Hunchback of Notre Dame,Horror,5.9,1996,Tim Burton,Emma Stone,"A gripping tale of adventure and mystery, following a Horror journey like never before."
+Children of Men,Fantasy,9.2,1999,Spike Lee,Gal Gadot,"A classic tale of love, loss, and redemption, set in a Fantasy world of intrigue."
+Annabelle,Sci-Fi,9.1,2005,Steven Spielberg,Gal Gadot,"A thrilling mix of Sci-Fi and action, packed with stunning visuals and unforgettable moments."
+I Am Legend,Action,7.1,2018,J.J. Abrams,Keanu Reeves,"A thrilling mix of Action and action, packed with stunning visuals and unforgettable moments."
+Edge of Tomorrow,Action,5.7,1997,Guillermo del Toro,Matt Damon,A mesmerizing Action story that explores the depths of human emotions and resilience.
+Scream,Horror,9.5,2017,Ridley Scott,Matt Damon,A mesmerizing Horror story that explores the depths of human emotions and resilience.
+The Da Vinci Code,Sci-Fi,8.0,2019,Wes Anderson,Hugh Jackman,A mesmerizing Sci-Fi story that explores the depths of human emotions and resilience.
+Harry Potter and the Goblet of Fire,Action,7.2,2005,Ridley Scott,Joaquin Phoenix,A mesmerizing Action story that explores the depths of human emotions and resilience.
+World War Z,Animation,8.6,2017,Guillermo del Toro,Hugh Jackman,A thought-provoking Animation film that challenges perceptions of reality.
+Forrest Gump,Romance,7.9,2009,Bryan Singer,Will Smith,An intense Romance drama that keeps you on the edge of your seat.
+Hereditary,Adventure,7.2,2012,Denis Villeneuve,Tom Cruise,An intense Adventure drama that keeps you on the edge of your seat.
+Pocahontas,Comedy,5.4,2004,Greta Gerwig,Daniel Day-Lewis,A blockbuster Comedy masterpiece featuring a star-studded cast and breathtaking action sequences.
+Batman Begins,Fantasy,8.1,2020,Stanley Kubrick,Tom Hanks,A blockbuster Fantasy masterpiece featuring a star-studded cast and breathtaking action sequences.
+E.T. the Extra-Terrestrial,Thriller,5.6,2002,David Fincher,Leonardo DiCaprio,"A classic tale of love, loss, and redemption, set in a Thriller world of intrigue."
+Terminator 2: Judgment Day,Horror,6.0,2017,Jon Favreau,Matt Damon,"A thrilling mix of Horror and action, packed with stunning visuals and unforgettable moments."
+Glass Onion,Romance,6.0,1988,Robert Zemeckis,Chris Hemsworth,"A thrilling mix of Romance and action, packed with stunning visuals and unforgettable moments."
+Braveheart,Thriller,9.3,1984,George Lucas,Joaquin Phoenix,"A gripping tale of adventure and mystery, following a Thriller journey like never before."
+Rocketman,Adventure,6.8,1993,Stanley Kubrick,Chris Pratt,An intense Adventure drama that keeps you on the edge of your seat.
+Jaws,Comedy,6.9,2006,M. Night Shyamalan,Denzel Washington,"A classic tale of love, loss, and redemption, set in a Comedy world of intrigue."
+The Road,Thriller,5.3,1988,Peter Jackson,Brad Pitt,"A gripping tale of adventure and mystery, following a Thriller journey like never before."
+The Lion King,Action,7.3,2016,Taika Waititi,Gal Gadot,An intense Action drama that keeps you on the edge of your seat.
+The Green Mile,Sci-Fi,9.3,1998,Alfred Hitchcock,Daniel Day-Lewis,A thought-provoking Sci-Fi film that challenges perceptions of reality.
+La La Land,Animation,8.9,2005,Greta Gerwig,Angelina Jolie,An intense Animation drama that keeps you on the edge of your seat.
+Sleeping Beauty,Sci-Fi,7.5,1993,Patty Jenkins,Denzel Washington,"A gripping tale of adventure and mystery, following a Sci-Fi journey like never before."
+The Invisible Man,Horror,6.6,1995,Peter Jackson,Tom Hanks,A blockbuster Horror masterpiece featuring a star-studded cast and breathtaking action sequences.
+Annihilation,Drama,9.1,1997,Spike Lee,Scarlett Johansson,A mesmerizing Drama story that explores the depths of human emotions and resilience.
+Dumbo,Horror,5.9,2022,Damien Chazelle,Emma Stone,"A thrilling mix of Horror and action, packed with stunning visuals and unforgettable moments."
+Marriage Story,Comedy,7.0,1999,Damien Chazelle,Tom Hanks,An intense Comedy drama that keeps you on the edge of your seat.
+Whiplash,Adventure,6.8,2008,J.J. Abrams,Denzel Washington,A blockbuster Adventure masterpiece featuring a star-studded cast and breathtaking action sequences.
+Aladdin,Sci-Fi,6.5,1996,Quentin Tarantino,Scarlett Johansson,"A classic tale of love, loss, and redemption, set in a Sci-Fi world of intrigue."
+War of the Worlds,Thriller,8.7,2002,Zack Snyder,Michael Fassbender,"A gripping tale of adventure and mystery, following a Thriller journey like never before."
+Pocahontas,Comedy,6.7,1993,Patty Jenkins,Keanu Reeves,"A thrilling mix of Comedy and action, packed with stunning visuals and unforgettable moments."
+Gone Girl,Comedy,5.8,2012,Tim Burton,Denzel Washington,An intense Comedy drama that keeps you on the edge of your seat.
+Bohemian Rhapsody,Action,9.2,1984,Guillermo del Toro,Chris Pratt,"A gripping tale of adventure and mystery, following a Action journey like never before."
+Gone Girl,Sci-Fi,5.5,2008,Greta Gerwig,Matt Damon,"A gripping tale of adventure and mystery, following a Sci-Fi journey like never before."
+Star Wars: The Last Jedi,Adventure,7.6,1997,Tim Burton,Emma Stone,An intense Adventure drama that keeps you on the edge of your seat.
+The Green Mile,Horror,6.8,2011,Bryan Singer,Tom Hanks,An intense Horror drama that keeps you on the edge of your seat.

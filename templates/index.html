@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mood-Based Movie Recommender</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <style>
+    body {
+      background: url("{{ url_for('static', filename='recommender_graphic.png') }}") no-repeat center center fixed;
+      background-size: cover;
+      backdrop-filter: blur(2px);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .content-wrapper {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      width: 80%;
+      max-width: 1200px;
+      background: rgba(255, 255, 255, 0.98);
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    }
+    .form-container, .recommendations {
+      width: 48%;
+      padding: 20px;
+      border-radius: 10px;
+      background: white;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .recommendations {
+      overflow-y: auto;
+      max-height: 400px;
+    }
+    .button-group {
+      display: flex;
+      gap: 10px;
+      margin-top: 15px;
+    }
+    button {
+      cursor: pointer;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 5px;
+      font-size: 1em;
+      background-color: #0071e3;
+      color: white;
+    }
+    button:hover {
+      background-color: #005bb5;
+    }
+    .clear-button {
+      background-color: #d9534f;
+    }
+    .clear-button:hover {
+      background-color: #c9302c;
+    }
+  </style>
+</head>
+<body>
+  <div class="content-wrapper">
+    <div class="form-container">
+      <h1 class="header">🎭 Mood-Based Movie Recommender</h1>
+      <form id="moodForm" method="POST" action="/recommend">
+        <label for="mood">Select Mood:</label>
+        <select id="mood" name="mood">
+          <option value="">Any</option>
+          {% for mood in moods %}
+            <option value="{{ mood }}">{{ mood }}</option>
+          {% endfor %}
+        </select>
+
+        <label for="genre">Select Genre:</label>
+        <select id="genre" name="genre">
+          <option value="">Any</option>
+          {% for genre in genres %}
+            <option value="{{ genre }}">{{ genre }}</option>
+          {% endfor %}
+        </select>
+
+        <label for="imdb_min">Minimum IMDb Rating:</label>
+        <input type="number" id="imdb_min" name="imdb_min" min="0" max="10" step="0.1">
+
+        <label for="release_year">Release Year:</label>
+        <input type="number" id="release_year" name="release_year" min="1900" max="2025">
+
+        <label for="director">Director:</label>
+        <input type="text" id="director" name="director">
+
+        <label for="actor">Lead Actor:</label>
+        <select id="actor" name="actor">
+          <option value="">Any</option>
+          {% for actor in actors %}
+            <option value="{{ actor }}">{{ actor }}</option>
+          {% endfor %}
+        </select>
+
+        <div class="button-group">
+          <button type="submit">🎬 Get Recommendations</button>
+          <button type="button" class="clear-button" id="clearForm">❌ Clear</button>
+        </div>
+      </form>
+    </div>
+
+    <div id="recommendations" class="recommendations">
+      <h2>Recommended Movies:</h2>
+      <div id="recommendation-list"></div>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById('moodForm').addEventListener('submit', function(event) {
+      event.preventDefault();
+      const mood = document.getElementById('mood').value;
+      const genre = document.getElementById('genre').value;
+      const imdb_min = document.getElementById('imdb_min').value;
+      const release_year = document.getElementById('release_year').value;
+      const director = document.getElementById('director').value;
+      const actor = document.getElementById('actor').value;
+
+      fetch('/recommend', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/x-www-form-urlencoded'},
+        body: `mood=${encodeURIComponent(mood)}&genre=${encodeURIComponent(genre)}&imdb_min=${encodeURIComponent(imdb_min)}&release_year=${encodeURIComponent(release_year)}&director=${encodeURIComponent(director)}&actor=${encodeURIComponent(actor)}`
+      })
+      .then(response => response.json())
+      .then(data => {
+        const recommendationsList = document.getElementById('recommendation-list');
+        recommendationsList.innerHTML = '';
+        data.forEach(movie => {
+          const movieItem = document.createElement('div');
+          movieItem.classList.add('recommendation-item');
+          movieItem.innerHTML = `<strong>${movie.Title}</strong><br><span>IMDb: ${movie['IMDb Rating']} - Mood: ${movie.Mood}</span>`;
+          recommendationsList.appendChild(movieItem);
+        });
+      });
+    });
+
+    document.getElementById('clearForm').addEventListener('click', function() {
+      document.getElementById('moodForm').reset();
+      document.getElementById('recommendation-list').innerHTML = '';
+    });
+  </script>
+
+  <div class="back-home" style="text-align: center; margin-top: 20px;">
+    <a href="{{ url_for('home') }}" style="text-decoration: none; font-size: 1.1em; color: #0071e3; font-weight: bold;">
+      ⬅️ Back to Home
+    </a>
+  </div>
+</body>
+</html>
