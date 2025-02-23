@@ -5,14 +5,12 @@ Submission to: Dr. Jennifer Merritt
 
 ## 
 Team Members:
-##
-  Moyinoluwa Akin-Adamu
-##
-  Niraj Gautam
-##
-  Jinal Mehta
-##
-  Pavleen Kaur
+  | Name         |      
+|:------------:|
+| Moyinoluwa Akin-Adamu    | 
+| Niraj Gautam  | 
+| Jinal Mehta  |  
+| Pavleen Kaur  |  
 
 
 ## 
