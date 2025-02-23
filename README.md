@@ -6,13 +6,13 @@ Submission to: Dr. Jennifer Merritt
 ## 
 Team Members:
 ##
-Moyinoluwa Akin-Adamu
+  Moyinoluwa Akin-Adamu
 ##
-Niraj Gautam
+  Niraj Gautam
 ##
-Jinal Mehta
+  Jinal Mehta
 ##
-Pavleen Kaur
+  Pavleen Kaur
 
 
 ## 
